@@ -125,3 +125,16 @@ body {
 #agenda {
     background-color: #ffffff;
 }
+
+.back-to-top {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  display: none;
+  z-index: 9999;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 20px;
+}
